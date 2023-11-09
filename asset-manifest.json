@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-digital-timer/static/css/main.a18936fd.chunk.css",
+    "main.js": "/react-digital-timer/static/js/main.c9b96019.chunk.js",
+    "main.js.map": "/react-digital-timer/static/js/main.c9b96019.chunk.js.map",
+    "runtime-main.js": "/react-digital-timer/static/js/runtime-main.3c7d0fd0.js",
+    "runtime-main.js.map": "/react-digital-timer/static/js/runtime-main.3c7d0fd0.js.map",
+    "static/js/2.1d43e1c6.chunk.js": "/react-digital-timer/static/js/2.1d43e1c6.chunk.js",
+    "static/js/2.1d43e1c6.chunk.js.map": "/react-digital-timer/static/js/2.1d43e1c6.chunk.js.map",
+    "index.html": "/react-digital-timer/index.html",
+    "static/css/main.a18936fd.chunk.css.map": "/react-digital-timer/static/css/main.a18936fd.chunk.css.map",
+    "static/js/2.1d43e1c6.chunk.js.LICENSE.txt": "/react-digital-timer/static/js/2.1d43e1c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c7d0fd0.js",
+    "static/js/2.1d43e1c6.chunk.js",
+    "static/css/main.a18936fd.chunk.css",
+    "static/js/main.c9b96019.chunk.js"
+  ]
+}
