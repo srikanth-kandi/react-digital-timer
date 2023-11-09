@@ -1,3 +1,7 @@
+# Digital Timer using ReactJS ⚛
+
+Live demo - [https://srikanth-kandi.github.io/react-digital-timer/](https://srikanth-kandi.github.io/react-digital-timer/)
+
 In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
